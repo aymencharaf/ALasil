@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Alasil" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1e5cff</item>
+        <item name="android:statusBarColor">#071a4a</item>
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+__pycache__/
+*.pyc
+alasil.db
+license.json
+license.key
+activation_log.txt
+receipts/
+cards/
+.venv/
+.arena/
+
+# ALASIL private data
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+*.key
+license.json
+activation_log.txt
+license_private.pem
+ALASIL ACTIV/license_private.pem
+
+# Local backups and generated files
+backups/
+build/
+dist/
+__pycache__/
+*.pyc
+*.backup*
+*.before_*
+CLEANUP_BACKUP_*/
+ED25519_BACKUP_*/
+receipts/
+cards/
+.venv/
+.arena/
+
+# Private executable
+ALASIL_License_Gen
